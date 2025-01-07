@@ -1,0 +1,3 @@
+## Kullanılan Teknolojiler
+- HTML
+- CSS
